@@ -10,6 +10,5 @@ public class GmallUserManageApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(GmallUserManageApplication.class, args);
-gmall-user-manage/src/main/java/com/atguigu/gmall/gmallusermanage/controller/UserController.java
 	}
 }
